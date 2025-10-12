@@ -93,4 +93,7 @@ These interests fuel my work and contribute to a **balanced, thoughtful, and inn
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sneha-pandey)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-pandey/)    [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sneha-pandey)
 
+### Certification
+https://www.linkedin.com/in/snehapandey846/details/certifications/
+
 ---
