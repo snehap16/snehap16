@@ -86,25 +86,8 @@ Currently, I’m focused on using **Generative AI**, **Prompt Engineering**, and
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha-pandey&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-pandey&theme=radical" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-pandey&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
 ## 💬 Quote  
 
 > “Good technical writing isn’t about words — it’s about understanding and empowering people.” ✨  
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sneha-pandey&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
-</p>
