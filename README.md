@@ -54,7 +54,7 @@ Currently, I’m focused on using **Generative AI**, **Prompt Engineering**, and
 I develop frameworks and tools to help writers and teams bridge the gap between traditional documentation and AI-driven workflows.
 
 * **[Writer’s Documentation Checklist](https://snehap16.github.io/awesome-tech-writing/writer-checklist/)** – A comprehensive checklist to ensure clarity, structure, and AI-readiness in every document.
-* **[Prompt Engineering Framework for Tech Writers](LINK)** – *Coming Soon*
+* **[Prompt Engineering Framework for Tech Writers]([https://snehap16.github.io/awesome-tech-writing/ai-prompt-library.html])** 
 
 ---
 
